@@ -1,0 +1,15 @@
+{
+  "name": "yl-template-node",
+  "version": "0.1.0",
+  "description": "Reusable YardaLab Node.js / TypeScript template repository for starting YardaLab-compatible projects.",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YardaLab/yl-template-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YardaLab/yl-template-node/issues"
+  },
+  "homepage": "https://github.com/YardaLab/yl-template-node#readme"
+}
